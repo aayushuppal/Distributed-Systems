@@ -1,0 +1,1 @@
+/home/hellsapphire/AndroidStudioProjects/SimpleDht/app/build/intermediates/classes/debug
